@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	text-transform: lowercase;
+	letter-spacing: -2px;
+}
+table {
+	border-style: solid;
+	border-color: ae687c;
+	border-width: 10px;
+
+}
+body {
+background-image: url(https://marketplace.canva.com/EAEthkBVLfQ/1/0/1600w/canva-blush-wave-desktop-wallpaper-drvq3zaYl2E.jpg);
+background-size: 200%;
+letter-spacing: 1px;
+font-family: "Arial";
+}
+
+img	{	
+	border-radius: 30px;
+}
+form {
+ table-layout: 30px;
+
+}
+
